@@ -7,12 +7,28 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Letts Shop, is an online shop where people can come to sell, buy and trade products.  Anyone can access the site and see the products, but will need to create an account to buy or sell products.  This idea came to me because it's something that any small business owner will need.
+
 ### Features
-Include Features here
+User Login
+Product Search
+Product sort
+File uploads to Database
+Admin/User authentication
+
 ### Technologies
-Include Technologies here
+Java
+Spring MVC
+MySql
+Hibernate
+Thymeleaf
+Bootstrap css
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Spring Security for the user authentication
+Uploading and displaying files from the database
+Pagination
+Sorting
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/x7zVNQLT/liftoff-project
