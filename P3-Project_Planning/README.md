@@ -9,11 +9,18 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* Wireframe image
+	*![Wireframe Image](https://github.com/BrentLetts/liftoff-assignments/blob/master/P3-Project_Planning/Letts_Shop_Wireframe.jpg)
+
 
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+[Trello Board](https://trello.com/b/x7zVNQLT/liftoff-project)
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+[Project](https://github.com/BrentLetts/letts_shop)
